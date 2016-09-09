@@ -9,18 +9,22 @@ Concepts
 --------
 
 Inspired from CAPCOM fighting games from 1991 to 1998:
+
+- Jojo's Bizarre Adventure: Heritage for the Future
 - Street Fighter II including its many variations
 - Street Fighter III 
 	1. New Generation
 	2. Second Impact
 	3. Third Strike
-- Jojo's Bizarre Adventure: Heritage for the Future
+
 
 Uses modified Third Strike character sprites:
+
 - One tone colored sillouetes
 - Customized attack animatino not featured in previous produced games
 
 Untraditional Approach to Gameplay Mechanics:
+
 - No lifebar to determine the standard Knockout i.e KO for winning a round
 - Rounds and Matches are to be won by highest number of points accumulated
 - Each hit confirm will give the player points respectively based on the attack confirmed
@@ -31,6 +35,7 @@ Untraditional Approach to Gameplay Mechanics:
 - Player with the most number of victorious rounds will win a match. i.e best of 3 = 2 out of 3 rounds
 
 Different Game Modes to Choose From:
+
 - Sparring/Tournament Mode see "See Above for Details"
 - Casino Mode
 - Traditional Mode

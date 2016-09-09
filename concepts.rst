@@ -41,12 +41,14 @@ Different Game Modes to Choose From:
 - Traditional Mode
 
 Casino Mode:
+
 - Mode will feature various stipulations simulation casino/gambling games
 	- Slots
 	- Tic Tac Toe
 	- Black Jack
 
 Slots:
+
 - For every hit confirm to the other opponent a spin of a tiny slot machine will be conducted. If the player gets a match of 3 icons the player will either win the round or get bonus rewards during the matches depending on which icons they match.
 - The slot machine at the lowest difficulty will have 3 columns. So the player has to get 3 hit confirms to finish a full game of slots. If the player gets thrown while they have icons already placed in the slot machine the most recent will be reset. i.e Player 1 has 2 out of the 3 icons needed for a full game of slots, Player 2 throws Player 1 once before Player 1 can finish the slots matching. Instead of Player 1 having 2 out of 3 icons, Player 1 now has 1 out of 3 icons.
 - Depending on the difficulty settings of the game will be the number of columns needed for a slots matching. i.e. 3 star difficulty = 3 columns. 7 stars difficulty = 7 columns
